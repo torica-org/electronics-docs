@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="ページ-1" id="dyBeBgDzc0O9fyNrSk7I">
-    <mxGraphModel dx="3177" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="2469" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6IxcTvRDuLTsSsmc2pAy-253" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=none;" value="" vertex="1">
+        <mxCell id="6IxcTvRDuLTsSsmc2pAy-253" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=none;fillColor=none;" value="" vertex="1">
           <mxGeometry height="900" width="1680" x="-240" y="120" as="geometry" />
         </mxCell>
         <mxCell id="GZJSjQDThRqwjQBhUHMr-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=126;height=20;" value="エアデータ電装部" vertex="1">
@@ -34,11 +34,11 @@
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-8" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_2;" value="" vertex="1">
           <mxGeometry height="71" width="40" x="1060" y="209" as="geometry" />
         </mxCell>
-        <mxCell id="6IxcTvRDuLTsSsmc2pAy-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="テレメトリ(Wi-Fi)" vertex="1">
-          <mxGeometry height="30" width="120" x="1130.77" y="260" as="geometry" />
+        <mxCell id="6IxcTvRDuLTsSsmc2pAy-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="スマホ等でログ取得&lt;div&gt;＋&lt;br&gt;コマンド送信&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="139.23" x="1171" y="262" as="geometry" />
         </mxCell>
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-10" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.mobile_phone;network2IconXOffset=0.0049;network2IconW=0.5297;network2IconH=1.02;" value="" vertex="1">
-          <mxGeometry height="80" width="41.54" x="1170" y="175" as="geometry" />
+          <mxGeometry height="80" width="41.54" x="1220" y="175" as="geometry" />
         </mxCell>
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-11" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=0;" value="" vertex="1">
           <mxGeometry height="50" width="42" x="1120" y="190" as="geometry" />
@@ -382,7 +382,7 @@
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-166" edge="1" parent="1" source="6IxcTvRDuLTsSsmc2pAy-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6IxcTvRDuLTsSsmc2pAy-163" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6IxcTvRDuLTsSsmc2pAy-165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="TSD20" vertex="1">
+        <mxCell id="6IxcTvRDuLTsSsmc2pAy-165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="TSD20" vertex="1">
           <mxGeometry height="40" width="80" x="140" y="820.5" as="geometry" />
         </mxCell>
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-173" edge="1" parent="1" source="6IxcTvRDuLTsSsmc2pAy-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6IxcTvRDuLTsSsmc2pAy-172" value="">
@@ -513,9 +513,6 @@
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-229" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_2;" value="" vertex="1">
           <mxGeometry height="71" width="40" x="1190" y="735.5" as="geometry" />
         </mxCell>
-        <mxCell id="6IxcTvRDuLTsSsmc2pAy-230" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;rotation=0;" value="〈&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;〉&lt;/span&gt;" vertex="1">
-          <mxGeometry height="20" width="20" x="1150" y="820.25" as="geometry" />
-        </mxCell>
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-231" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ピッチ(Bluetooth)" vertex="1">
           <mxGeometry height="20" width="100" x="1050" y="820.25" as="geometry" />
         </mxCell>
@@ -562,11 +559,19 @@
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-250" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="スピーカーからのビープ音&lt;br&gt;&lt;div&gt;(パイロットへの伝達)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="1265" y="890.5" as="geometry" />
         </mxCell>
-        <mxCell id="6IxcTvRDuLTsSsmc2pAy-251" edge="1" parent="1" source="6IxcTvRDuLTsSsmc2pAy-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="6IxcTvRDuLTsSsmc2pAy-229">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6IxcTvRDuLTsSsmc2pAy-251" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="6IxcTvRDuLTsSsmc2pAy-229">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="830.25" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-252" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;" value="" vertex="1">
           <mxGeometry height="71" width="40" x="1230" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="6IxcTvRDuLTsSsmc2pAy-254" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;rotation=0;" value="➔" vertex="1">
+          <mxGeometry height="20" width="20" x="1150" y="820.25" as="geometry" />
+        </mxCell>
+        <mxCell id="6IxcTvRDuLTsSsmc2pAy-255" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="50" width="42" x="1170" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
