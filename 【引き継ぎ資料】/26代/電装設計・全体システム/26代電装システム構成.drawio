@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="ページ-1" id="dyBeBgDzc0O9fyNrSk7I">
-    <mxGraphModel dx="2469" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="2802" dy="1209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,7 +105,7 @@
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GPS(PIO UART)" vertex="1">
           <mxGeometry height="20" width="100" x="470" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="6IxcTvRDuLTsSsmc2pAy-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="データ(UART)" vertex="1">
+        <mxCell id="6IxcTvRDuLTsSsmc2pAy-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="データ(UART0)" vertex="1">
           <mxGeometry height="30" width="90" x="670" y="285" as="geometry" />
         </mxCell>
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="データ(PIO UART)" vertex="1">
