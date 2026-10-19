@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="ページ-1" id="dyBeBgDzc0O9fyNrSk7I">
-    <mxGraphModel dx="2802" dy="1209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="1653" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -391,8 +391,8 @@
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-170" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="URM37" vertex="1">
           <mxGeometry height="40" width="80" x="140" y="880.5" as="geometry" />
         </mxCell>
-        <mxCell id="6IxcTvRDuLTsSsmc2pAy-171" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="超音波(アナログ)" vertex="1">
-          <mxGeometry height="30" width="101" x="269" y="885.5" as="geometry" />
+        <mxCell id="6IxcTvRDuLTsSsmc2pAy-171" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="超音波(PWM)" vertex="1">
+          <mxGeometry height="30" width="80" x="269" y="885.5" as="geometry" />
         </mxCell>
         <mxCell id="6IxcTvRDuLTsSsmc2pAy-172" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;rotation=0;" value="➔" vertex="1">
           <mxGeometry height="20" width="20" x="249" y="890.5" as="geometry" />
